@@ -50,7 +50,7 @@ img {
 /* top-------------------------- */
 
 .top {
-    background-image: url(/img/top.jpg);
+    background-image: url("../img/top.jpg");
     opacity: 0.9;
     background-size: cover;
     width: 1440px;
